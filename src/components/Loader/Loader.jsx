@@ -1,8 +1,6 @@
 const Loader = () => {
   return (
-    <div className="lds-ring">
-      <div></div>
-      <div></div>
+    <div className="lds-ripple">
       <div></div>
       <div></div>
     </div>
